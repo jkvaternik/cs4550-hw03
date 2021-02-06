@@ -1,0 +1,11 @@
+.Error {
+  background-color: #ffdc6a;
+  border: 2px solid #ecc544;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.Error h4 {
+  margin: 0;
+  padding: 20px 15px;
+}

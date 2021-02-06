@@ -1,0 +1,40 @@
+.game {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.game h2 {
+  display: inline-block;
+  margin: 20px 20px 0px 0px;
+}
+
+#enter {
+  margin-left: 5px;
+}
+
+input {
+  padding: 5px 10px;
+  border: 2px solid #007ba0;
+  border-radius: 5px;
+}
+
+input:focus {
+  outline: none;
+  padding: 5px 10px;
+  border: 2px solid #009edd;
+  border-radius: 5px;
+}
+
+button {
+  padding: 7px 15px;
+  background-color: #00568f;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+}
+
+@media only screen and (min-width: 500px) {
+  .game {
+    width: 60%;
+  }
+}

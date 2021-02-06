@@ -1,0 +1,27 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name? 
+Jaime Kvaternik
+
+2. What hostname did you deploy to? 
+hw03.jk-web.site
+
+3. Which parts of this assignment did you have trouble with, if any? 
+I wouldn't say I struggled with any part of this assignment. I'd say
+that infering when to pull out components or styling was the little
+thing in the back of my mind bugging me as I finished the assignment.
+
+4. What external libraries did you use? For what? 
+Lodash - for the shuffle function to shuffle the digits.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
